@@ -4,4 +4,5 @@
 
 **目录**
 
-![nsort dsort msort](/images/indexmenu\>/network/ipsec#1)
+{{indexmenu>:network:ipsec#1 | nsort dsort msort}}
+
