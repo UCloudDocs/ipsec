@@ -7,7 +7,7 @@ VPN网关按照实例类型进行收费。
 
 ## 产品价格
 <!-- udocs:price -->
-| 产品规格 | 产品价格   | 产品性能   |
-| ---- | ------ | ------ |
-| 标准型  | 90元/月  | 50Mbps |
-| 增强型  | 240元/月 | 100Mbps |
+| 产品规格 | 产品价格   | 产品性能   |操作|
+| ---- | ------ | ------ |------ |
+| 标准型  | 90元/月  | 50Mbps | [立即购买](https://console.ucloud.cn/vpc/ipsecvpn/ipsecvpngw/create) |
+| 增强型  | 240元/月 | 100Mbps | [立即购买](https://console.ucloud.cn/vpc/ipsecvpn/ipsecvpngw/create) |
