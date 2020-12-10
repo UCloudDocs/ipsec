@@ -1,4 +1,3 @@
-<div class="sidebar_title icon__ipsecvpn"> VPN 网关 IPSec VPN</div>
 
 * [概览](/ipsec/README)
 * [产品简介](/ipsec/intro) 
